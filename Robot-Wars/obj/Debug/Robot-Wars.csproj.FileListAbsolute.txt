@@ -1,0 +1,6 @@
+C:\Users\Szabolcs.Lazar\Desktop\Robot-Wars\Robot-Wars\bin\Debug\Robot-Wars.dll
+C:\Users\Szabolcs.Lazar\Desktop\Robot-Wars\Robot-Wars\bin\Debug\Robot-Wars.pdb
+C:\Users\Szabolcs.Lazar\Desktop\Robot-Wars\Robot-Wars\obj\Debug\Robot-Wars.csprojAssemblyReference.cache
+C:\Users\Szabolcs.Lazar\Desktop\Robot-Wars\Robot-Wars\obj\Debug\Robot-Wars.csproj.CoreCompileInputs.cache
+C:\Users\Szabolcs.Lazar\Desktop\Robot-Wars\Robot-Wars\obj\Debug\Robot-Wars.dll
+C:\Users\Szabolcs.Lazar\Desktop\Robot-Wars\Robot-Wars\obj\Debug\Robot-Wars.pdb
